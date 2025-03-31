@@ -6,4 +6,4 @@
 学園祭では，Googledriveでドキュメント管理を行なっていたため,GoogleスプレッドシートのGAS（Google app scripte）を利用して，マクロを作成し，更新状況をSlackに通知を送信する機能を実装した．
 
 # アクセスURL（閲覧のみ）
-http://docs.google.com/spreadsheets/d/1_oLyZ5b8RrCSCY5KQEfKV1srrNyhm0LVBWZ07_CUga8/edit?gid=0#gid=0
+

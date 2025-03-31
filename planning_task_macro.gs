@@ -58,7 +58,7 @@ function onEdit(e) {
 }
 
 function sendSlack(slackText) {
-  var webHookUrl = "https://hooks.slack.com/services/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"; // Webhook URLを設定
+  var webHookUrl = ""; // Webhook URLを設定
   var jsonData = {
     'icon_emoji': ':star2:',
     "text": slackText,

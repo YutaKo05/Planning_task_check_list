@@ -1,4 +1,4 @@
-# Planning_task_check_list
+# Planning-task-check-list
 学園祭での仕事進捗を確認するためのチェックリスト
 
 # 説明
